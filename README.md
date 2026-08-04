@@ -4,3 +4,4 @@
 
 - [Google To-do clone](https://github.com/Fadhl0/Vue-Projects/tree/vue-todo)
 
+- [Daily Salah Wallpaper](https://github.com/Fadhl0/Vue-Projects/tree/Daily-Salah)
