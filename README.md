@@ -1,5 +1,7 @@
 # Daily Salah Wallpaper
 
+<div style="text-align: center;">
+
 ### Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" title="VUE.JS" />
@@ -11,3 +13,5 @@
 [insert demo video]
 
 Available on Wallpaper Engine: [link]
+
+</div>
