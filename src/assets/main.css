@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'pray';
+  src: url('./islamicTime.ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'hijri';
+  src: url('./hijri-months.ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ar-number';
+  src: url('./ar-number.ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-gold-400: #dec396;
+  --color-gold-700: #936b3e;
+  --font-pray: 'pray';
+  --font-hijri: 'hijri';
+  --font-ar-number: 'ar-number';
+}
+
+* {
+  @apply select-none;
+}
