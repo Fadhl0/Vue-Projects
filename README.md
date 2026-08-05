@@ -10,8 +10,8 @@
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" title="TailwindCSS" />
 <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" title="Vitest" />
 
-[insert demo video]
+https://github.com/user-attachments/assets/9a548bc9-a4d2-41f1-b537-b8dc90b8fa68
 
-Available on Wallpaper Engine: [link]
+Available on Wallpaper Engine [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3777993929)
 
 </div>
