@@ -1,54 +1,17 @@
-# vur-wordle-ar
+<h1 style="text-align: center;"> Vue Wordle Arabic </h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<div style="text-align: center;">
 
-## Recommended IDE Setup
+**Wordle but in Arabic**
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Stack
 
-## Recommended Browser Setup
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" title="VUE.JS" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="Typescript logo" title="TypeScript" />
+<img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia logo" title="Pinia" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" title="TailwindCSS" />
+<img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" title="Vitest" />
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+</div>
