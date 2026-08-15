@@ -1,0 +1,78 @@
+@import 'tailwindcss';
+
+:root {
+  --main: #050510, #0a1128, #101f42;
+}
+
+@font-face {
+  font-family: 'molhim';
+  src: url(Molhim.otf);
+}
+
+@font-face {
+  font-family: 'molhim-bold';
+  src: url(MolhimBold.otf);
+}
+
+@theme {
+  --font-molhim: molhim;
+  --font-molhim-bold: molhim-bold;
+
+  --color-primary: #1e2939;
+  --color-read: var(--color-zinc-100);
+  --color-success: #44ba81;
+  --color-warning: #e4b369;
+  --color-disable: black;
+  --color-secondary: #070a1b;
+  --color-main: #fbbf24;
+
+  --shadow-btn:
+    0 0px 2px var(--color-read), inset 0 5px 0px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0px rgba(255, 255, 255, 0.8);
+
+  --animate-shake: tail-wag 8s ease-in-out infinite;
+  --animate-drop: drop 1s ease-in-out;
+
+  @keyframes tail-wag {
+    0%,
+    100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(5deg);
+    }
+  }
+
+  @keyframes drop {
+    0% {
+      transform: translateY(-90%);
+    }
+    70% {
+      transform: translateY(-15px);
+    }
+    50%,
+    100% {
+      transform: translateY(0);
+    }
+  }
+}
+
+* {
+  @apply select-none;
+}
+
+#app {
+  @apply font-molhim bg-linear-to-b bg-linear-(--main) h-screen;
+}
+
+img {
+  pointer-events: none;
+}
+
+.btn {
+  @apply rounded-xl bg-secondary py-2 px-6 mx-auto text-read cursor-pointer w-fit block hover:bg-secondary/50 shadow-btn;
+}
+
+.timer {
+  @apply text-4xl text-read font-molhim w-fit;
+}
