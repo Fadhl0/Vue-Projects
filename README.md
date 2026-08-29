@@ -7,3 +7,5 @@
 - [Daily Salah Wallpaper](https://github.com/Fadhl0/Vue-Projects/tree/Daily-Salah)
 
 - [Wordle In Arabic](https://github.com/Fadhl0/Vue-Projects/tree/wordle-ar)
+
+- [Rose Gify](https://github.com/Fadhl0/Vue-Projects/tree/rose-gify)
